@@ -1,0 +1,17 @@
+<DOCTYPE html>
+<html lang = "ua">
+<head>
+  <meta charset = "UTF-8">
+  <title>Smotrych_Fossils</title>
+</head>
+<body>
+  <h1>Смотрицький каньйон</h1>
+  <p>Трилобіт Asaphus</p>
+  <p>Морська лілія</p>
+<figure>
+  <img src = "imgs/trilobite.jpg"
+       width = "500px" alt = "Трилобіт">
+  <figcaption>Set image size</figcaption>
+</figure>
+</body>
+</html>
